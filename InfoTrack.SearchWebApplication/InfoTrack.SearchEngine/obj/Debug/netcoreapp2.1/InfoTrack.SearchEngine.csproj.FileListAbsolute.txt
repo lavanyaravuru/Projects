@@ -1,0 +1,9 @@
+C:\Lavanya\LAVANYA RESUME - SENIOR DEVELOPER\InfoTrack.SearchWebApplication\InfoTrack.SearchEngine\obj\Debug\netcoreapp2.1\InfoTrack.SearchEngine.csprojAssemblyReference.cache
+C:\Lavanya\LAVANYA RESUME - SENIOR DEVELOPER\InfoTrack.SearchWebApplication\InfoTrack.SearchEngine\obj\Debug\netcoreapp2.1\InfoTrack.SearchEngine.csproj.CoreCompileInputs.cache
+C:\Lavanya\LAVANYA RESUME - SENIOR DEVELOPER\InfoTrack.SearchWebApplication\InfoTrack.SearchEngine\obj\Debug\netcoreapp2.1\InfoTrack.SearchEngine.AssemblyInfoInputs.cache
+C:\Lavanya\LAVANYA RESUME - SENIOR DEVELOPER\InfoTrack.SearchWebApplication\InfoTrack.SearchEngine\obj\Debug\netcoreapp2.1\InfoTrack.SearchEngine.AssemblyInfo.cs
+C:\Lavanya\LAVANYA RESUME - SENIOR DEVELOPER\InfoTrack.SearchWebApplication\InfoTrack.SearchEngine\bin\Debug\netcoreapp2.1\InfoTrack.SearchEngine.deps.json
+C:\Lavanya\LAVANYA RESUME - SENIOR DEVELOPER\InfoTrack.SearchWebApplication\InfoTrack.SearchEngine\bin\Debug\netcoreapp2.1\InfoTrack.SearchEngine.dll
+C:\Lavanya\LAVANYA RESUME - SENIOR DEVELOPER\InfoTrack.SearchWebApplication\InfoTrack.SearchEngine\bin\Debug\netcoreapp2.1\InfoTrack.SearchEngine.pdb
+C:\Lavanya\LAVANYA RESUME - SENIOR DEVELOPER\InfoTrack.SearchWebApplication\InfoTrack.SearchEngine\obj\Debug\netcoreapp2.1\InfoTrack.SearchEngine.dll
+C:\Lavanya\LAVANYA RESUME - SENIOR DEVELOPER\InfoTrack.SearchWebApplication\InfoTrack.SearchEngine\obj\Debug\netcoreapp2.1\InfoTrack.SearchEngine.pdb

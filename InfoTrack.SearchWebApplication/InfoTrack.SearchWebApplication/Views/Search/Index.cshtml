@@ -1,0 +1,95 @@
+﻿@using InfoTrack.SearchWebApplication.Models
+@model SearchModel
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    ViewBag.Title = "Search";
+}
+
+@section Scripts{
+    <script src="~/js/custom.js"></script>
+}
+
+<h2>Search</h2>
+
+<div class="container">
+    <div class="row">
+        <div id="errorContainer" class="alert-danger">
+            <span>An error occurred while performing search, please enter all the fields and try again</span>
+        </div>
+    </div>
+    @using (Html.BeginForm("Index", "Search", FormMethod.Post, new Dictionary<string, object> { { "id", "SearchForm" } }))
+    {
+        @Html.ValidationSummary(false)
+        <div asp-validation-summary="All"></div>
+
+        <div class="row">
+            <div class="col alert-info wide-text">
+                <p>
+                    Enter keywords you want to search for in the text box below. <br />
+                    Select which search engine you would like to search in.
+                </p>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col custom-margin">
+                @Html.DropDownList("SearchEngineType", Html.GetEnumSelectList<SearchEngineTypeEnum>(), "Select Search Engine")
+                <span asp-validation-for="SearchEngineType" class="text-danger"></span>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col">
+                @Html.TextBoxFor(model => model.SearchString, new { @class = "wide-text" })
+                <span asp-validation-for="SearchString" class="text-danger"></span>
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col custom-margin">
+                <input type="submit" value="Submit" class="btn btn-primary" />
+            </div>
+        </div>
+    }
+
+    <div class="row">
+        <div class="col custom-margin">
+            @Html.TextBox("Result", "", new { @class = "", @style = "background-color:yellow;" })
+        </div>
+    </div>
+</div>
+
+<script>
+    $(function () {
+        $('#Result').hide();
+        $('#errorContainer').hide();
+        
+        // use ajax post to submit the form
+        // this is the id of the form
+        $("#SearchForm").submit(function (e) {
+           
+            e.preventDefault(); // avoid to execute the actual submit of the form.
+
+            var form = $(this);
+            var url = form.attr('action');
+
+            $.ajax({
+                type: "POST",
+                url: url,
+                data: form.serialize(), // serializes the form's elements.
+                success: function (data) { 
+                    if (data.success === true) {
+                        // show response.
+                        $('#Result').val(data.resultCount);
+                        $('#Result').show();
+                        $('#errorContainer').hide();                        
+                    } else {
+                        //show error message    
+                        $('#errorContainer').val(data.errorMessage);
+                        $('#errorContainer').show();
+                        $('#Result').val('');
+                        $('#Result').hide();
+                    }
+                }
+            });
+        });
+    });
+</script>

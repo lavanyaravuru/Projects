@@ -1,0 +1,24 @@
+C:\Lavanya\LAVANYA RESUME - SENIOR DEVELOPER\InfoTrack.SearchWebApplication\InfoTrack.SearchServiceLayer\bin\Debug\netcoreapp2.1\InfoTrack.SearchServiceLayer.deps.json
+C:\Lavanya\LAVANYA RESUME - SENIOR DEVELOPER\InfoTrack.SearchWebApplication\InfoTrack.SearchServiceLayer\bin\Debug\netcoreapp2.1\InfoTrack.SearchServiceLayer.dll
+C:\Lavanya\LAVANYA RESUME - SENIOR DEVELOPER\InfoTrack.SearchWebApplication\InfoTrack.SearchServiceLayer\bin\Debug\netcoreapp2.1\InfoTrack.SearchServiceLayer.pdb
+C:\Lavanya\LAVANYA RESUME - SENIOR DEVELOPER\InfoTrack.SearchWebApplication\InfoTrack.SearchServiceLayer\obj\Debug\netcoreapp2.1\InfoTrack.SearchServiceLayer.csprojAssemblyReference.cache
+C:\Lavanya\LAVANYA RESUME - SENIOR DEVELOPER\InfoTrack.SearchWebApplication\InfoTrack.SearchServiceLayer\obj\Debug\netcoreapp2.1\InfoTrack.SearchServiceLayer.csproj.CoreCompileInputs.cache
+C:\Lavanya\LAVANYA RESUME - SENIOR DEVELOPER\InfoTrack.SearchWebApplication\InfoTrack.SearchServiceLayer\obj\Debug\netcoreapp2.1\InfoTrack.SearchServiceLayer.AssemblyInfoInputs.cache
+C:\Lavanya\LAVANYA RESUME - SENIOR DEVELOPER\InfoTrack.SearchWebApplication\InfoTrack.SearchServiceLayer\obj\Debug\netcoreapp2.1\InfoTrack.SearchServiceLayer.AssemblyInfo.cs
+C:\Lavanya\LAVANYA RESUME - SENIOR DEVELOPER\InfoTrack.SearchWebApplication\InfoTrack.SearchServiceLayer\obj\Debug\netcoreapp2.1\InfoTrack.SearchServiceLayer.dll
+C:\Lavanya\LAVANYA RESUME - SENIOR DEVELOPER\InfoTrack.SearchWebApplication\InfoTrack.SearchServiceLayer\obj\Debug\netcoreapp2.1\InfoTrack.SearchServiceLayer.pdb
+C:\Lavanya\LAVANYA RESUME - SENIOR DEVELOPER\InfoTrack.SearchWebApplication\InfoTrack.SearchServiceLayer\bin\Debug\netcoreapp2.1\InfoTrack.SearchEngine.dll
+C:\Lavanya\LAVANYA RESUME - SENIOR DEVELOPER\InfoTrack.SearchWebApplication\InfoTrack.SearchServiceLayer\bin\Debug\netcoreapp2.1\InfoTrack.SearchEngine.pdb
+C:\Lavanya\LAVANYA RESUME - SENIOR DEVELOPER\InfoTrack.SearchWebApplication\InfoTrack.SearchServiceLayer\obj\Debug\netcoreapp2.1\InfoTrack.SearchServiceLayer.csproj.CopyComplete
+C:\Lavanya\Projects\InfoTrack.SearchWebApplication\InfoTrack.SearchServiceLayer\bin\Debug\netcoreapp2.1\InfoTrack.SearchServiceLayer.deps.json
+C:\Lavanya\Projects\InfoTrack.SearchWebApplication\InfoTrack.SearchServiceLayer\bin\Debug\netcoreapp2.1\InfoTrack.SearchServiceLayer.dll
+C:\Lavanya\Projects\InfoTrack.SearchWebApplication\InfoTrack.SearchServiceLayer\bin\Debug\netcoreapp2.1\InfoTrack.SearchServiceLayer.pdb
+C:\Lavanya\Projects\InfoTrack.SearchWebApplication\InfoTrack.SearchServiceLayer\bin\Debug\netcoreapp2.1\InfoTrack.SearchEngine.dll
+C:\Lavanya\Projects\InfoTrack.SearchWebApplication\InfoTrack.SearchServiceLayer\bin\Debug\netcoreapp2.1\InfoTrack.SearchEngine.pdb
+C:\Lavanya\Projects\InfoTrack.SearchWebApplication\InfoTrack.SearchServiceLayer\obj\Debug\netcoreapp2.1\InfoTrack.SearchServiceLayer.csprojAssemblyReference.cache
+C:\Lavanya\Projects\InfoTrack.SearchWebApplication\InfoTrack.SearchServiceLayer\obj\Debug\netcoreapp2.1\InfoTrack.SearchServiceLayer.csproj.CoreCompileInputs.cache
+C:\Lavanya\Projects\InfoTrack.SearchWebApplication\InfoTrack.SearchServiceLayer\obj\Debug\netcoreapp2.1\InfoTrack.SearchServiceLayer.AssemblyInfoInputs.cache
+C:\Lavanya\Projects\InfoTrack.SearchWebApplication\InfoTrack.SearchServiceLayer\obj\Debug\netcoreapp2.1\InfoTrack.SearchServiceLayer.AssemblyInfo.cs
+C:\Lavanya\Projects\InfoTrack.SearchWebApplication\InfoTrack.SearchServiceLayer\obj\Debug\netcoreapp2.1\InfoTrack.SearchServiceLayer.csproj.CopyComplete
+C:\Lavanya\Projects\InfoTrack.SearchWebApplication\InfoTrack.SearchServiceLayer\obj\Debug\netcoreapp2.1\InfoTrack.SearchServiceLayer.dll
+C:\Lavanya\Projects\InfoTrack.SearchWebApplication\InfoTrack.SearchServiceLayer\obj\Debug\netcoreapp2.1\InfoTrack.SearchServiceLayer.pdb

@@ -1,0 +1,56 @@
+C:\Lavanya\LAVANYA RESUME - SENIOR DEVELOPER\InfoTrack.SearchWebApplication\InfoTrack.SearchWebApplication\bin\Debug\netcoreapp2.1\InfoTrack.SearchWebApplication.deps.json
+C:\Lavanya\LAVANYA RESUME - SENIOR DEVELOPER\InfoTrack.SearchWebApplication\InfoTrack.SearchWebApplication\bin\Debug\netcoreapp2.1\InfoTrack.SearchWebApplication.runtimeconfig.json
+C:\Lavanya\LAVANYA RESUME - SENIOR DEVELOPER\InfoTrack.SearchWebApplication\InfoTrack.SearchWebApplication\bin\Debug\netcoreapp2.1\InfoTrack.SearchWebApplication.runtimeconfig.dev.json
+C:\Lavanya\LAVANYA RESUME - SENIOR DEVELOPER\InfoTrack.SearchWebApplication\InfoTrack.SearchWebApplication\bin\Debug\netcoreapp2.1\InfoTrack.SearchWebApplication.dll
+C:\Lavanya\LAVANYA RESUME - SENIOR DEVELOPER\InfoTrack.SearchWebApplication\InfoTrack.SearchWebApplication\bin\Debug\netcoreapp2.1\InfoTrack.SearchWebApplication.pdb
+C:\Lavanya\LAVANYA RESUME - SENIOR DEVELOPER\InfoTrack.SearchWebApplication\InfoTrack.SearchWebApplication\obj\Debug\netcoreapp2.1\InfoTrack.SearchWebApplication.csprojAssemblyReference.cache
+C:\Lavanya\LAVANYA RESUME - SENIOR DEVELOPER\InfoTrack.SearchWebApplication\InfoTrack.SearchWebApplication\obj\Debug\netcoreapp2.1\InfoTrack.SearchWebApplication.csproj.CoreCompileInputs.cache
+C:\Lavanya\LAVANYA RESUME - SENIOR DEVELOPER\InfoTrack.SearchWebApplication\InfoTrack.SearchWebApplication\obj\Debug\netcoreapp2.1\InfoTrack.SearchWebApplication.RazorAssemblyInfo.cache
+C:\Lavanya\LAVANYA RESUME - SENIOR DEVELOPER\InfoTrack.SearchWebApplication\InfoTrack.SearchWebApplication\obj\Debug\netcoreapp2.1\InfoTrack.SearchWebApplication.RazorAssemblyInfo.cs
+C:\Lavanya\LAVANYA RESUME - SENIOR DEVELOPER\InfoTrack.SearchWebApplication\InfoTrack.SearchWebApplication\obj\Debug\netcoreapp2.1\InfoTrack.SearchWebApplication.AssemblyInfoInputs.cache
+C:\Lavanya\LAVANYA RESUME - SENIOR DEVELOPER\InfoTrack.SearchWebApplication\InfoTrack.SearchWebApplication\obj\Debug\netcoreapp2.1\InfoTrack.SearchWebApplication.AssemblyInfo.cs
+C:\Lavanya\LAVANYA RESUME - SENIOR DEVELOPER\InfoTrack.SearchWebApplication\InfoTrack.SearchWebApplication\obj\Debug\netcoreapp2.1\InfoTrack.SearchWebApplication.RazorTargetAssemblyInfo.cache
+C:\Lavanya\LAVANYA RESUME - SENIOR DEVELOPER\InfoTrack.SearchWebApplication\InfoTrack.SearchWebApplication\obj\Debug\netcoreapp2.1\InfoTrack.SearchWebApplication.dll
+C:\Lavanya\LAVANYA RESUME - SENIOR DEVELOPER\InfoTrack.SearchWebApplication\InfoTrack.SearchWebApplication\obj\Debug\netcoreapp2.1\InfoTrack.SearchWebApplication.pdb
+C:\Lavanya\LAVANYA RESUME - SENIOR DEVELOPER\InfoTrack.SearchWebApplication\InfoTrack.SearchWebApplication\bin\Debug\netcoreapp2.1\InfoTrack.SearchWebApplication.Views.dll
+C:\Lavanya\LAVANYA RESUME - SENIOR DEVELOPER\InfoTrack.SearchWebApplication\InfoTrack.SearchWebApplication\bin\Debug\netcoreapp2.1\InfoTrack.SearchWebApplication.Views.pdb
+C:\Lavanya\LAVANYA RESUME - SENIOR DEVELOPER\InfoTrack.SearchWebApplication\InfoTrack.SearchWebApplication\obj\Debug\netcoreapp2.1\InfoTrack.SearchWebApplication.TagHelpers.input.cache
+C:\Lavanya\LAVANYA RESUME - SENIOR DEVELOPER\InfoTrack.SearchWebApplication\InfoTrack.SearchWebApplication\obj\Debug\netcoreapp2.1\InfoTrack.SearchWebApplication.TagHelpers.output.cache
+C:\Lavanya\LAVANYA RESUME - SENIOR DEVELOPER\InfoTrack.SearchWebApplication\InfoTrack.SearchWebApplication\obj\Debug\netcoreapp2.1\InfoTrack.SearchWebApplication.RazorCoreGenerate.cache
+C:\Lavanya\LAVANYA RESUME - SENIOR DEVELOPER\InfoTrack.SearchWebApplication\InfoTrack.SearchWebApplication\obj\Debug\netcoreapp2.1\InfoTrack.SearchWebApplication.RazorTargetAssemblyInfo.cs
+C:\Lavanya\LAVANYA RESUME - SENIOR DEVELOPER\InfoTrack.SearchWebApplication\InfoTrack.SearchWebApplication\obj\Debug\netcoreapp2.1\InfoTrack.SearchWebApplication.Views.pdb
+C:\Lavanya\LAVANYA RESUME - SENIOR DEVELOPER\InfoTrack.SearchWebApplication\InfoTrack.SearchWebApplication\obj\Debug\netcoreapp2.1\InfoTrack.SearchWebApplication.csproj.CopyComplete
+C:\Lavanya\LAVANYA RESUME - SENIOR DEVELOPER\InfoTrack.SearchWebApplication\InfoTrack.SearchWebApplication\bin\Debug\netcoreapp2.1\InfoTrack.SearchServiceLayer.dll
+C:\Lavanya\LAVANYA RESUME - SENIOR DEVELOPER\InfoTrack.SearchWebApplication\InfoTrack.SearchWebApplication\bin\Debug\netcoreapp2.1\InfoTrack.SearchServiceLayer.pdb
+C:\Lavanya\LAVANYA RESUME - SENIOR DEVELOPER\InfoTrack.SearchWebApplication\InfoTrack.SearchWebApplication\obj\Debug\netcoreapp2.1\Razor\Views\Search\Index.g.cshtml.cs
+C:\Lavanya\LAVANYA RESUME - SENIOR DEVELOPER\InfoTrack.SearchWebApplication\InfoTrack.SearchWebApplication\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Lavanya\LAVANYA RESUME - SENIOR DEVELOPER\InfoTrack.SearchWebApplication\InfoTrack.SearchWebApplication\bin\Debug\netcoreapp2.1\InfoTrack.SearchEngine.dll
+C:\Lavanya\LAVANYA RESUME - SENIOR DEVELOPER\InfoTrack.SearchWebApplication\InfoTrack.SearchWebApplication\bin\Debug\netcoreapp2.1\InfoTrack.SearchEngine.pdb
+C:\Lavanya\Projects\InfoTrack.SearchWebApplication\InfoTrack.SearchWebApplication\bin\Debug\netcoreapp2.1\InfoTrack.SearchWebApplication.deps.json
+C:\Lavanya\Projects\InfoTrack.SearchWebApplication\InfoTrack.SearchWebApplication\bin\Debug\netcoreapp2.1\InfoTrack.SearchWebApplication.runtimeconfig.json
+C:\Lavanya\Projects\InfoTrack.SearchWebApplication\InfoTrack.SearchWebApplication\bin\Debug\netcoreapp2.1\InfoTrack.SearchWebApplication.runtimeconfig.dev.json
+C:\Lavanya\Projects\InfoTrack.SearchWebApplication\InfoTrack.SearchWebApplication\bin\Debug\netcoreapp2.1\InfoTrack.SearchWebApplication.dll
+C:\Lavanya\Projects\InfoTrack.SearchWebApplication\InfoTrack.SearchWebApplication\bin\Debug\netcoreapp2.1\InfoTrack.SearchWebApplication.pdb
+C:\Lavanya\Projects\InfoTrack.SearchWebApplication\InfoTrack.SearchWebApplication\bin\Debug\netcoreapp2.1\InfoTrack.SearchWebApplication.Views.dll
+C:\Lavanya\Projects\InfoTrack.SearchWebApplication\InfoTrack.SearchWebApplication\bin\Debug\netcoreapp2.1\InfoTrack.SearchWebApplication.Views.pdb
+C:\Lavanya\Projects\InfoTrack.SearchWebApplication\InfoTrack.SearchWebApplication\bin\Debug\netcoreapp2.1\InfoTrack.SearchEngine.dll
+C:\Lavanya\Projects\InfoTrack.SearchWebApplication\InfoTrack.SearchWebApplication\bin\Debug\netcoreapp2.1\InfoTrack.SearchServiceLayer.dll
+C:\Lavanya\Projects\InfoTrack.SearchWebApplication\InfoTrack.SearchWebApplication\bin\Debug\netcoreapp2.1\InfoTrack.SearchServiceLayer.pdb
+C:\Lavanya\Projects\InfoTrack.SearchWebApplication\InfoTrack.SearchWebApplication\bin\Debug\netcoreapp2.1\InfoTrack.SearchEngine.pdb
+C:\Lavanya\Projects\InfoTrack.SearchWebApplication\InfoTrack.SearchWebApplication\obj\Debug\netcoreapp2.1\InfoTrack.SearchWebApplication.csprojAssemblyReference.cache
+C:\Lavanya\Projects\InfoTrack.SearchWebApplication\InfoTrack.SearchWebApplication\obj\Debug\netcoreapp2.1\InfoTrack.SearchWebApplication.csproj.CoreCompileInputs.cache
+C:\Lavanya\Projects\InfoTrack.SearchWebApplication\InfoTrack.SearchWebApplication\obj\Debug\netcoreapp2.1\InfoTrack.SearchWebApplication.RazorAssemblyInfo.cache
+C:\Lavanya\Projects\InfoTrack.SearchWebApplication\InfoTrack.SearchWebApplication\obj\Debug\netcoreapp2.1\InfoTrack.SearchWebApplication.RazorAssemblyInfo.cs
+C:\Lavanya\Projects\InfoTrack.SearchWebApplication\InfoTrack.SearchWebApplication\obj\Debug\netcoreapp2.1\InfoTrack.SearchWebApplication.AssemblyInfoInputs.cache
+C:\Lavanya\Projects\InfoTrack.SearchWebApplication\InfoTrack.SearchWebApplication\obj\Debug\netcoreapp2.1\InfoTrack.SearchWebApplication.AssemblyInfo.cs
+C:\Lavanya\Projects\InfoTrack.SearchWebApplication\InfoTrack.SearchWebApplication\obj\Debug\netcoreapp2.1\InfoTrack.SearchWebApplication.TagHelpers.input.cache
+C:\Lavanya\Projects\InfoTrack.SearchWebApplication\InfoTrack.SearchWebApplication\obj\Debug\netcoreapp2.1\InfoTrack.SearchWebApplication.TagHelpers.output.cache
+C:\Lavanya\Projects\InfoTrack.SearchWebApplication\InfoTrack.SearchWebApplication\obj\Debug\netcoreapp2.1\InfoTrack.SearchWebApplication.RazorCoreGenerate.cache
+C:\Lavanya\Projects\InfoTrack.SearchWebApplication\InfoTrack.SearchWebApplication\obj\Debug\netcoreapp2.1\Razor\Views\Search\Index.g.cshtml.cs
+C:\Lavanya\Projects\InfoTrack.SearchWebApplication\InfoTrack.SearchWebApplication\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Lavanya\Projects\InfoTrack.SearchWebApplication\InfoTrack.SearchWebApplication\obj\Debug\netcoreapp2.1\InfoTrack.SearchWebApplication.RazorTargetAssemblyInfo.cache
+C:\Lavanya\Projects\InfoTrack.SearchWebApplication\InfoTrack.SearchWebApplication\obj\Debug\netcoreapp2.1\InfoTrack.SearchWebApplication.RazorTargetAssemblyInfo.cs
+C:\Lavanya\Projects\InfoTrack.SearchWebApplication\InfoTrack.SearchWebApplication\obj\Debug\netcoreapp2.1\InfoTrack.SearchWebApplication.Views.pdb
+C:\Lavanya\Projects\InfoTrack.SearchWebApplication\InfoTrack.SearchWebApplication\obj\Debug\netcoreapp2.1\InfoTrack.SearchWebApplication.csproj.CopyComplete
+C:\Lavanya\Projects\InfoTrack.SearchWebApplication\InfoTrack.SearchWebApplication\obj\Debug\netcoreapp2.1\InfoTrack.SearchWebApplication.dll
+C:\Lavanya\Projects\InfoTrack.SearchWebApplication\InfoTrack.SearchWebApplication\obj\Debug\netcoreapp2.1\InfoTrack.SearchWebApplication.pdb

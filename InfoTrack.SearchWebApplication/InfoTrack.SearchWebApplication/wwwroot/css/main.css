@@ -1,0 +1,30 @@
+﻿h2 {
+    border-bottom: 3px solid #cc9900;
+    font: 2.75em/1.75em Georgia, serif;
+    color: #996600;
+}
+
+body {
+    margin: 0;
+    padding: 1em;
+    background-color: #ffffff;
+    font: 75%/1.75em "Trebuchet MS", Verdana, sans-serif;
+    color: #006600;
+}
+
+.wide-text {
+    width: 70%;
+}
+
+.custom-margin {
+    margin-top: 20px;
+    margin-left:10px;
+    padding:2px;
+}
+
+
+#header, #footer {
+    margin: 0;
+    padding: 0;
+    color: #996600;
+}
